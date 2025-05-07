@@ -1,0 +1,15 @@
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\obj\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\obj\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.AssemblyInfoInputs.cache
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\obj\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.AssemblyInfo.cs
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\obj\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\obj\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.sourcelink.json
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\bin\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.exe
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\bin\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.deps.json
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\bin\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.runtimeconfig.json
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\bin\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.dll
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\bin\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.pdb
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\obj\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.dll
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\obj\Debug\net9.0\refint\Pratik---Kim-Milyoner-Olmak-ster-.dll
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\obj\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.pdb
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\obj\Debug\net9.0\Pratik---Kim-Milyoner-Olmak-ster-.genruntimeconfig.cache
+C:\Users\Administrator\Patika+ C#\Kim\Pratik---Kim-Milyoner-Olmak-ster-\obj\Debug\net9.0\ref\Pratik---Kim-Milyoner-Olmak-ster-.dll
